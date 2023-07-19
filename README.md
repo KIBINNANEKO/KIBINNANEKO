@@ -5,8 +5,6 @@ I am deeply passionate about programming and everything related to it, which is 
 
 Therefore, in the past few years, I have been actively studying Web Front-end Development, which is also highly relevant in today's world. During my learning journey, I have acquired a wide range of knowledge and skills. Through working on personal projects, participating in hackathons, and completing an internship, I am now seeking a place where I can fully apply my skills.
 
-In February 2023, I participated in the "INT20H" hackathon organized by the KPI, where I successfully developed two interesting web applications (a test version and a main part) in collaboration with other developers. It was during this experience that I first felt confident in my ability to create something more significant than just educational projects.
-
 ## 💻 Tech Stack:
 - html, css/scss, css-in-js, css/scss-modules;
 - JavaScript, TypeScript;

@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 Currently, I am a 3rd-year student at Kharkiv Polytechnic University, majoring in Systems Analysis, Faculty of Computer Science.
 
 I am deeply passionate about programming and everything related to it, which is why I am motivated to grow and learn. I have been successfully doing so for over three years now. Throughout this time, I have explored various programming-related areas, including C++, C#, data analysis and visualization, Telegram bots, and Python-based web scraping. However, what fascinated me the most was interface development.
@@ -7,7 +7,7 @@ Therefore, in the past few years, I have been actively studying Web Front-end De
 
 In February 2023, I participated in the "INT20H" hackathon organized by the KPI, where I successfully developed two interesting web applications (a test version and a main part) in collaboration with other developers. It was during this experience that I first felt confident in my ability to create something more significant than just educational projects.
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 - html, css/scss, css-in-js, css/scss-modules;
 - JavaScript, TypeScript;
 - React, React Native;

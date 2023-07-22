@@ -16,6 +16,7 @@ Therefore, in the past few years, I have been actively studying Web Front-end De
 
 ## 📀 Pet-Projects (Non-Commercial)
 The main part of my projects is in my repositories.
+
 Most of my projects have a demonstration in the 'README.md' file.
 
 ## 🌐 Socials:

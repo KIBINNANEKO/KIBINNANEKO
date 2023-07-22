@@ -11,6 +11,8 @@ Therefore, in the past few years, I have been actively studying Web Front-end De
 - React, React Native;
 - Redux, Redux Thunk;
 - UI Libraries (Material UI, Chakra UI);
+- Figma/Photoshop;
+- Trello/Jira;
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kostia9cat/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostiantyn-ivanov-web/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KIBINNANEKO) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivanov.kostiantyn.dev@gmail.com)

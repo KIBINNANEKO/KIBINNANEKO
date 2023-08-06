@@ -12,7 +12,7 @@ Therefore, in the past few years, I have been actively studying Web Front-end De
 - Redux, Redux Thunk;
 - UI Libraries (Material UI, Chakra UI);
 - Figma/Photoshop;
-- Trello/Jira;
+- Trello/Jira.
 
 ## 📀 Projects
 The main part of my projects is in my repositories.

@@ -10,6 +10,7 @@ Therefore, in the past few years, I have been actively studying Web Front-end De
 - JavaScript, TypeScript;
 - React, React Native;
 - Redux, Redux Thunk;
+- Next.js
 - UI Libraries (Material UI, Chakra UI);
 - Figma/Photoshop;
 - Trello/Jira.

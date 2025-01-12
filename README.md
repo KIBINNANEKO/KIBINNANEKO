@@ -9,5 +9,3 @@ Let’s connect and explore how we can collaborate!
 
 ## 📀 Projects
 The main part of my projects is in my repositories.
-
-Most of my projects have a demonstration in the 'README.md' file.

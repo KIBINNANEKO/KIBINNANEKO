@@ -1,24 +1,13 @@
-## 💫 About Me:
-Currently, I am a 3rd-year student at Kharkiv Polytechnic University, majoring in Systems Analysis, Faculty of Computer Science.
+## About Me:
+Hi there! Glad to see you here 😉
 
-I am deeply passionate about programming and everything related to it, which is why I am motivated to grow and learn. I have been successfully doing so for over three years now. Throughout this time, I have explored various programming-related areas, including C++, C#, data analysis and visualization, Telegram bots, and Python-based web scraping. However, what fascinated me the most was interface development.
+I’m a Business Analyst with a background in Software Development and currently pursuing a degree in System Analysis at Kharkiv National University.
 
-Therefore, in the past few years, I have been actively studying Web Front-end Development, which is also highly relevant in today's world. During my learning journey, I have acquired a wide range of knowledge and skills. Through working on personal projects, participating in hackathons, and completing an internship, I am now seeking a place where I can fully apply my skills.
+I’m open to opportunities across various industries. What drives me? A passion for unique experiences and a continuous desire for learning and growth.
 
-## 💻 Tech Stack:
-- html, css/scss, css-in-js, css/scss-modules;
-- JavaScript, TypeScript;
-- React, React Native;
-- Redux, Redux Thunk;
-- Next.js
-- UI Libraries (Material UI, Chakra UI);
-- Figma/Photoshop;
-- Trello/Jira.
+Let’s connect and explore how we can collaborate!
 
 ## 📀 Projects
 The main part of my projects is in my repositories.
 
 Most of my projects have a demonstration in the 'README.md' file.
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kostia9cat/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kostiantyn-ivanov-web/) [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/KIBINNANEKO) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ivanov.kostiantyn.dev@gmail.com)
